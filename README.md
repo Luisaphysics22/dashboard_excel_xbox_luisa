@@ -75,10 +75,8 @@ O dashboard inclui:
 ## 📁 Files Included / Arquivos Incluídos
 
 - `xbox_subscription_dashboard_luisa.xlsx` – The completed Excel dashboard.
-O dashboard finalizado em Excel.
 
 - `README.md` – This documentation file.  
-Este arquivo de documentação.
 
 - `xbox_subscription_dashboard_luisa.xlsx` – O dashboard finalizado em Excel.
 
